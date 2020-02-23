@@ -1,6 +1,0 @@
- # contries and admin bounduaries http://www.gadm.org/country
- 
- Mesa 0 "NAME_0" = 'Chile'
- 
- Mesa 1 "NAME_1" in ('Berlin', 'Sachsen', 'Brandenburg', 'Sachsen-Anhalt')
- 
